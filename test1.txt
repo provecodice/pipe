@@ -1,0 +1,3 @@
+lombardo  quattro 2 4
+longo giulio 1 1
+circolo pippo 1 2

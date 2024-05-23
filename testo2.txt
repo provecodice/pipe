@@ -1,0 +1,3 @@
+trapani luigi 3 8
+guglia pippo 6 5
+marotta paolo 10 10
